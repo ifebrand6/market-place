@@ -1,5 +1,5 @@
 # market-place
-Smart contract for decentraliced marketplace build on algorand blockchain.
+Smart contract for decentralized marketplace build on algorand blockchain.
 
 Features:
 Products can be offered.
